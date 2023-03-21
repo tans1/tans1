@@ -26,7 +26,7 @@ I am Tofik , Software Engineering Student at Addis Ababa University. I am passio
 &nbsp;  
 
 ## ⚡ Competitive Programming
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=tofikabdu2002&theme=dark)](https://leetcode.com/tofikabdu2002/)
+![Leetcode Stats](https://leetcard.jacoblin.cool/TofikAbdu2002?font=milonga)
 
 
 
