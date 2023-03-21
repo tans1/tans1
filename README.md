@@ -37,6 +37,6 @@ I am Tofik , Software Engineering Student at Addis Ababa University. I am passio
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tans1&show_icons=true)
 
 &nbsp; 
-![Profile View Counter](https://komarev.com/ghpvc/?username=tans1)
+![Profile View Counter](https://komarev.com/ghpvc/?username=tans1) 
 
 
