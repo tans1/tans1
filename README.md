@@ -2,13 +2,8 @@
 
 I am Tofik , Software Engineering Student at Addis Ababa University. I am passionate about learning new things. I have been in touch with coding for many years.Currently I am working on mobile development by flutter. Find out more about me & feel free to connect with me here:
 &nbsp;  
-&nbsp;  
 [![Gmail Badge](https://img.shields.io/badge/-gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:tofikabdu2002@gmail.com)           [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tofik-abdu/)         [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tan_nat)
-
-
-
-&nbsp;  
-&nbsp;  
+ 
 &nbsp;  
 &nbsp;  
 
@@ -26,9 +21,7 @@ I am Tofik , Software Engineering Student at Addis Ababa University. I am passio
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-&nbsp;  
-&nbsp;  
+ 
 &nbsp;  
 
 
@@ -40,12 +33,10 @@ I am Tofik , Software Engineering Student at Addis Ababa University. I am passio
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
-&nbsp;  
+ 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tans1&theme=blue-green)
 &nbsp;  
-&nbsp; 
-&nbsp;  
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tans1&show_icons=true)
 
 
