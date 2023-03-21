@@ -25,10 +25,11 @@ I am Tofik , Software Engineering Student at Addis Ababa University. I am passio
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 &nbsp;  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tans1&theme=blue-green)
+
 &nbsp;  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tans1&show_icons=true)
 
-
-
+&nbsp; 
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 
 
