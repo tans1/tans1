@@ -30,15 +30,11 @@ I am Tofik , Software Engineering Student at Addis Ababa University. I am passio
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
-
-
-
-
-
-
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tans1&show_icons=true)
 
