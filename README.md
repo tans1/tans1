@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am Tofik , Software Engineering Student at Addis Ababa University. I am passionate about learning new things. I have been in touch with coding for many years.Currently I am working on mobile development by flutter. Find out more about me & feel free to connect with me here:
+
 &nbsp;  
 [![Gmail Badge](https://img.shields.io/badge/-gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:tofikabdu2002@gmail.com)           [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tofik-abdu/)         [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tan_nat)
  &nbsp;  
@@ -24,7 +25,7 @@ I am Tofik , Software Engineering Student at Addis Ababa University. I am passio
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 &nbsp;  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tans1&theme=blue-green)
-()
+&nbsp;  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tans1&show_icons=true)
 
 
