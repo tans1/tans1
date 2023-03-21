@@ -26,9 +26,10 @@ I am Tofik , Software Engineering Student at Addis Ababa University. I am passio
 &nbsp;  
 
 ## ⚡ Competitive Programming
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Tofik?font=milonga)](https://leetcode.com/tofikabdu2002/)
-
-
+[![Leetcode Stats](https://leetcard.jacoblin.cool/TofikAbdu2002?font=milonga)](https://leetcode.com/tofikabdu2002/)
+&nbsp;  
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tofikabdu2002)
+&nbsp;  
 &nbsp;  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tans1&theme=blue-green)
 
