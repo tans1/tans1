@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Tofik , Software Engineering Student at Addis Ababa University. I am passionate about learning new things and interested in competitive programming .I have been in touch with coding for many years.Currently I am working on mobile development by flutter. Find out more about me & feel free to connect with me here:
+I am Tofik , Dedicated Software Engineering. I am passionate about learning new things and interested in competitive programming .I have been in touch with coding for many years.Find out more about me & feel free to connect with me here:
 
 &nbsp;  
 [![Gmail Badge](https://img.shields.io/badge/-gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:tofikabdu2002@gmail.com)           [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tofik-abdu/)         [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tan_nat)
