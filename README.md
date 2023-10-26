@@ -26,7 +26,7 @@ class SoftwareEngineer :
  ```
 #
 <p align="center" >
-<img align="center" height="400" max-width = "800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFvZzdxYjY3ZjFzenhxeDF6NGN5aTNwbzdicXh6aG41M3Bucm44ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif"  />
+<img align="center" height="400" max-width = "900" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFvZzdxYjY3ZjFzenhxeDF6NGN5aTNwbzdicXh6aG41M3Bucm44ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif"  />
 </p>
 
 ##
@@ -44,7 +44,7 @@ class SoftwareEngineer :
 
 ---
 ### Github Stats
-<img align="right" height="330" width = "500" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  />
+<img align="right" height="330" width = "450" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  />
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tans1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
   <p><p/>
