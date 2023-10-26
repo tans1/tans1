@@ -26,7 +26,7 @@ class SoftwareEngineer :
  ```
 #
 <p align="center" >
-<img align="center" height="400" max-width = "900" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFvZzdxYjY3ZjFzenhxeDF6NGN5aTNwbzdicXh6aG41M3Bucm44ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif"  />
+<img align="center" height="400" max-width = "800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFvZzdxYjY3ZjFzenhxeDF6NGN5aTNwbzdicXh6aG41M3Bucm44ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BemKqR9RDK4V2/giphy.gif"  />
 </p>
 
 ##
