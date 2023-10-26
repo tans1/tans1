@@ -1,53 +1,51 @@
-### Hi there 👋
+<h1 align="center">Hello there 👋, I'm Tofik  Abdu </h1>
+<h3 align="center">Competitive programmer and a passionate full-stack developer from Ethiopia</h3>
 
 ``` python
 	class SoftwareEngineer :
 	    def __init__(self):
 		    self.name = "Tofik Abdu"
-
+		    self.about = "Dedicated Software Engineer and passionate about learning new things and interested in competitive programming.I have been in touch with coding for many years."
+		def getSkills(self):
+			return {
+				"frontend" : "ReactJs,Redux,Tailwind,Bootstrap,FramerMotion,Emotion,HTML,CSS,JS,",
+				"backend" : "NodeJs, ExpressJs, NestJs,ASP.NET CORE",
+				"mobile" : "Flutter, Dart",
+				"database" : "MongoDb,MysqlDb,PostgresqlDb,Hive",
+				"programming language" : "Python, Java, JavaScript, TypeScript,Dart,C#"
+				"tools and tech" : "Jira,Confluence,Slack,git,Postman,Vs-code",
+				"architecture" : "Clean Architecture, MVC"
+			}
+		def getAddress(self):
+			return {
+			"mail" : "tofikabdu2002@gmail.com",
+			"linkedIn" : "https://www.linkedin.com/in/tofik-abdu/",
+			"telegram" : "https://t.me/tan_nat"
+			}
  ```
-		    
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tans1&label=Profile%20views&color=0e75b6&style=flat" alt="tans1" /> </p>
+<img  
+src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  
+alt="Alt text"  
+title="Optional title"  
+style="display: inline-block; margin: 0 auto; max-width: 300px; max-height : 100px">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tans1" alt="tans1" /></a> </p>
 
-I am Tofik , Dedicated Software Engineering. I am passionate about learning new things and interested in competitive programming .I have been in touch with coding for many years.Find out more about me & feel free to connect with me here:
+---
+ - Highest Education :- **Bachelor of Science in Software Engineering and Computing Technology**  2021 - 2025
+ - How to reach me ? **tofikabdu2002@gmail.com**
+---
+### Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tans1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tans1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tans1&" alt="tans1" /></p>
 
-&nbsp;  
-[![Gmail Badge](https://img.shields.io/badge/-gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:tofikabdu2002@gmail.com)           [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tofik-abdu/)         [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tan_nat)
- &nbsp;  
-## ⚡ Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-&nbsp;  
-## ⚡ Technologies
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-&nbsp;  
+---
 
 ## ⚡ Competitive Programming
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/tofikabdu2002?font=milonga)](https://leetcode.com/tofikabdu2002/)
 &nbsp;  
-
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tofikabdu2002)
-
-&nbsp;  
-
-&nbsp;  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tans1&theme=blue-green)
-
-&nbsp;  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=tans1&show_icons=true)
-
-&nbsp; 
-![Profile View Counter](https://komarev.com/ghpvc/?username=tans1) 
-
-
