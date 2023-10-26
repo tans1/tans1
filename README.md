@@ -5,10 +5,10 @@
 	class SoftwareEngineer :
 	    def __init__(self):
 		    self.name = "Tofik Abdu"
-		    self.about = "Dedicated Software Engineer and passionate about learning new things and interested in competitive programming.I have been in touch with coding for many years."
+		    self.about = "Dedicated Software Engineer and passionate about learning new things \n and interested in competitive programming.I have been in touch with coding for many years."
 		def getSkills(self):
 			return {
-				"frontend" : "ReactJs,Redux,Tailwind,Bootstrap,FramerMotion,Emotion,HTML,CSS,JS,",
+				"frontend" : "ReactJs,Redux,Tailwind,Bootstrap,FramerMotion,Emotion,JS,",
 				"backend" : "NodeJs, ExpressJs, NestJs,ASP.NET CORE",
 				"mobile" : "Flutter, Dart",
 				"database" : "MongoDb,MysqlDb,PostgresqlDb,Hive",
