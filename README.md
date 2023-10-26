@@ -44,11 +44,10 @@ class SoftwareEngineer :
 
 ---
 ### Github Stats
-<img align="right" height="330" width = "450" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  />
+<img align="right" height="230" width = "400" src="https://media.giphy.com/media/12W5Sg2koWYnwA/giphy.gif"  />
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tans1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
-  <p><p/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tans1&locale=en&hide_title=false&layout=compact&card_width=410&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tans1&locale=en&hide_title=false&layout=compact&card_width=410&langs_count=7&theme=dracula&hide_border=false" height="230" alt="languages graph"  />
 </div>
 
 
