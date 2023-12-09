@@ -33,7 +33,7 @@ class SoftwareEngineer :
 <div style="margin-right: 30px;">
 	
 
- - 🏆 Highest Education :- **Bachelor of Science in Software Engineering and Computing Technology**  `2021 - 2025`
+ - 🏆 Highest Education :- **Bachelor of Science in Software Engineering and Computing Technology** 
  - ❓ How to reach me ? **tofikabdu2002@gmail.com**
 
 </div>
