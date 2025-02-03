@@ -19,7 +19,6 @@ class SoftwareEngineer :
 		}
 	def getAddress(self):
 		return {
-			"mail" : "tofikabdu2002@gmail.com",
 			"linkedIn" : "https://www.linkedin.com/in/tofik-abdu/",
 			"telegram" : "https://t.me/tan_nat"
 		}
@@ -34,8 +33,6 @@ class SoftwareEngineer :
 	
 
  - 🏆 Highest Education :- **Bachelor of Science in Software Engineering and Computing Technology** 
- - ❓ How to reach me ? **tofikabdu2002@gmail.com**
-
 </div>
  
 ---
