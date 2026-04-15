@@ -33,92 +33,48 @@ class SoftwareEngineer:
 
 ##
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"  width="60" height="60"/> 
-  </a> &nbsp;
+<p > 
+  <table>
+  <tr>
+    <td align="center"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/></a><br/>Python</td>
+    <td align="center"><a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="60"/></a><br/>Go</td>
+    <td align="center"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/></a><br/>Java</td>
+    <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"/></a><br/>JS</td>
+    <td align="center"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60"/></a><br/>TS</td>
+    <td align="center"><a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60"/></a><br/>Dart</td>
+    <td align="center"><a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60"/></a><br/>C#</td>
+  </tr>
 
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"  width="60" height="60"/> 
-  </a> &nbsp;
+  <tr>
+    <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60"/></a><br/>React</td>
+    <td align="center"><a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="60"/></a><br/>Vue</td>
+    <td align="center"><a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60"/></a><br/>Redux</td>
+    <td align="center"><a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60"/></a><br/>Tailwind</td>
+    <td align="center"><a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="60"/></a><br/>Flutter</td>
+    <td align="center"><a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60"/></a><br/>Node</td>
+    <td align="center"><a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="60"/></a><br/>Express</td>
+  </tr>
 
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" alt="nestjs" width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"  width="60" height="60"/> 
-  </a> &nbsp;
+  <tr>
+    <td align="center"><a href="https://nestjs.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="60"/></a><br/>NestJS</td>
+    <td align="center"><a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="60"/></a><br/>GraphQL</td>
+    <td align="center"><a href="https://www.rabbitmq.com"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="60"/></a><br/>RabbitMQ</td>
+    <td align="center"><a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="60"/></a><br/>Redis</td>
+    <td align="center"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60"/></a><br/>MongoDB</td>
+    <td align="center"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/></a><br/>MySQL</td>
+    <td align="center"><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60"/></a><br/>Postgres</td>
+  </tr>
 
-  <!-- DevOps -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"  width="60" height="60"/> 
-  </a> &nbsp;
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress"  width="60" height="60"/> 
-  </a> 
+  <tr>
+    <td align="center"><a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/></a><br/>AWS</td>
+    <td align="center"><a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="60"/></a><br/>Jenkins</td>
+    <td align="center"><a href="https://kubernetes.io"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="60"/></a><br/>K8s</td>
+    <td align="center"><a href="https://www.nginx.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="60"/></a><br/>Nginx</td>
+    <td align="center"><a href="https://www.cypress.io"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/cypress.svg" width="60"/></a><br/>Cypress</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 </p>
 
 ##
