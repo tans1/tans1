@@ -1,18 +1,13 @@
-<h1 align="center">Hello there 👋, I'm Tofik  Abdu </h1>
-<h3 align="center">Competitive programmer and a full-stack developer from Ethiopia</h3>
-
 ``` python
 class SoftwareEngineer:
     def __init__(self):
-        self.name = "Tofik Abdu"
-        self.about = """'Small steps build great journeys.' 
-                        I carry this approach into software,
-                        turning ideas into working solutions one piece at a time."""
+        self.name = "Tofik"
+        self.about = """Full-stack developer and Competitive programmer"""
 
     def get_skills(self):
         return {
             "frontend": ["React.js", "Next.js", "Vue.js", "Nuxt.js", "Tailwind CSS"],
-            "backend":  ["Node.js", "Express.js", "NestJS", "Go", "FastAPI", "Flask", "Django", "ASP.NET Core"],
+            "backend":  ["Node.js", "NestJS", "Go", "FastAPI", "Flask", "Django", "ASP.NET Core"],
             "mobile":   ["Flutter", "Dart"],
             "database": ["MongoDB", "MySQL", "PostgreSQL", "AuroraDB", "DynamoDB"],
             "programming_languages": ["Python", "Go", "JavaScript", "TypeScript", "Dart", "C#", "Java"],
@@ -25,11 +20,6 @@ class SoftwareEngineer:
             "LinkedIn": "https://www.linkedin.com/in/tofik-abdu/",
         }
  ```
-##
-<div>
-🏆 Highest Education : <big><strong>Bachelor of Science in Software Engineering and Computing Technology</strong></big>
-</div>
-
 
 ##
 <h3 align="left">Languages and Tools:</h3>
@@ -77,21 +67,12 @@ class SoftwareEngineer:
 </table>
 </p>
 
-##
-| GitHub Stats | LeetCode Stats |
-|------------------|----------------|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tans1&locale=en&hide_title=false&layout=compact&card_width=410&langs_count=7&theme=dracula&hide_border=false" height="230" alt="languages graph" /> | <a href="https://leetcode.com/tofik_abdu/"><img src="https://leetcard.jacoblin.cool/tofik_abdu?font=milonga" alt="LeetCode Stats" height="230"/></a> |
+
+<h3 align="left">Leetcode:</h3>
+<a href="https://leetcode.com/tofik_abdu/"><img src="https://leetcard.jacoblin.cool/tofik_abdu?font=milonga" alt="LeetCode Stats" height="230"/></a>
 
 
-##
-
-<img align="right" height="192" width = "290" src="https://media.giphy.com/media/ynx1sj5Wz2atO/giphy.gif"  />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tans1&" alt="tans1" /></p>
-
-##
 <br />
-
-![TYPING-SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=33&pause=1000&color=EBE912&width=999&lines=A+clear+function+speaks+louder+than+a+comment.)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e599b0c5-b812-4e11-908a-2bdec8c97c5f" alt="banner" width="100%"/>
