@@ -21,8 +21,9 @@ class SoftwareEngineer:
         }
  ```
 
+<!--
 ##
-<h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">Languages and Tools:</h3>
 <p > 
   <table>
   <tr>
@@ -33,7 +34,7 @@ class SoftwareEngineer:
     <td align="center"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60"/></a><br/>TS</td>
     <td align="center"><a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="60"/></a><br/>Dart</td>
     <td align="center"><a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60"/></a><br/>C#</td>
-  </tr>
+  </tr> 
 
   <tr>
     <td align="center"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60"/></a><br/>React</td>
@@ -66,9 +67,9 @@ class SoftwareEngineer:
   </tr>
 </table>
 </p>
+-->
 
-
-<h3 align="left">Leetcode:</h3>
+<!-- <h3 align="left">Leetcode:</h3>
 <a href="https://leetcode.com/tofik_abdu/"><img src="https://leetcard.jacoblin.cool/tofik_abdu?font=milonga" alt="LeetCode Stats" height="230"/></a>
 
 
@@ -76,5 +77,5 @@ class SoftwareEngineer:
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e599b0c5-b812-4e11-908a-2bdec8c97c5f" alt="banner" width="100%"/>
-</div>
+</div> -->
 
